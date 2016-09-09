@@ -3,20 +3,8 @@ function test() {
 }
 
 
+setTimeout(function () {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}, 10);
 
 test();
